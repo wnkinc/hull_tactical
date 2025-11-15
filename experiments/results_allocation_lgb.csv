@@ -1,0 +1,122 @@
+allocation_fn,variant,score
+alloc_softplus,last return,0.009228
+alloc_softplus,lgbRegressor,0.01055
+alloc_softplus,lgbClassifier,0.016441
+alloc_softplus,lgbClassifier + engFeats,0.016018
+alloc_softplus,lgbClassifier + allFeats,0.014958
+alloc_softplus,lgbRegressor + allFeats,0.010536
+alloc_softplus,lgbRegressor + engFeats,0.010548
+alloc_softplus,lgbRegressor + allFeats diff,0.010535
+alloc_softplus,lgbRegressor + engFeats diff,0.010561
+alloc_piecewise,last return,0.002353
+alloc_piecewise,lgbRegressor,0.013183
+alloc_piecewise,lgbClassifier,0.014958
+alloc_piecewise,lgbClassifier + engFeats,0.012609
+alloc_piecewise,lgbClassifier + allFeats,0.013328
+alloc_piecewise,lgbRegressor + allFeats,0.01614
+alloc_piecewise,lgbRegressor + engFeats,0.013942
+alloc_piecewise,lgbRegressor + allFeats diff,0.013353
+alloc_piecewise,lgbRegressor + engFeats diff,0.016874
+alloc_tanh,last return,-0.008881
+alloc_tanh,lgbRegressor,0.015537
+alloc_tanh,lgbClassifier,0.023084
+alloc_tanh,lgbClassifier + engFeats,0.015506
+alloc_tanh,lgbClassifier + allFeats,0.01785
+alloc_tanh,lgbRegressor + allFeats,0.014679
+alloc_tanh,lgbRegressor + engFeats,0.014429
+alloc_tanh,lgbRegressor + allFeats diff,0.016001
+alloc_tanh,lgbRegressor + engFeats diff,0.016848
+alloc_linear,last return,-0.017213
+alloc_linear,lgbRegressor,0.022014
+alloc_linear,lgbClassifier,0.021528
+alloc_linear,lgbClassifier + engFeats,0.015748
+alloc_linear,lgbClassifier + allFeats,0.016321
+alloc_linear,lgbRegressor + allFeats,0.020992
+alloc_linear,lgbRegressor + engFeats,0.01548
+alloc_linear,lgbRegressor + allFeats diff,0.024258
+alloc_linear,lgbRegressor + engFeats diff,0.024873
+alloc_asymmetric,last return,-0.005558
+alloc_asymmetric,lgbRegressor,0.015647
+alloc_asymmetric,lgbClassifier,0.023039
+alloc_asymmetric,lgbClassifier + engFeats,0.015523
+alloc_asymmetric,lgbClassifier + allFeats,0.018372
+alloc_asymmetric,lgbRegressor + allFeats,0.014747
+alloc_asymmetric,lgbRegressor + engFeats,0.014558
+alloc_asymmetric,lgbRegressor + allFeats diff,0.015411
+alloc_asymmetric,lgbRegressor + engFeats diff,0.01622
+alloc_sign,last return,-0.00517
+alloc_sign,lgbRegressor,0.014692
+alloc_sign,lgbClassifier,0.018195
+alloc_sign,lgbClassifier + engFeats,0.014055
+alloc_sign,lgbClassifier + allFeats,0.01528
+alloc_sign,lgbRegressor + allFeats,0.020447
+alloc_sign,lgbRegressor + engFeats,0.016303
+alloc_sign,lgbRegressor + allFeats diff,0.015221
+alloc_sign,lgbRegressor + engFeats diff,0.021624
+alloc_softplus_vol,last return,-0.000803
+alloc_softplus_vol,lgbRegressor,0.015839
+alloc_softplus_vol,lgbClassifier,0.018269
+alloc_softplus_vol,lgbClassifier + engFeats,0.012075
+alloc_softplus_vol,lgbClassifier + allFeats,0.013491
+alloc_softplus_vol,lgbRegressor + allFeats,0.018407
+alloc_softplus_vol,lgbRegressor + engFeats,0.015977
+alloc_softplus_vol,lgbRegressor + allFeats diff,0.015086
+alloc_softplus_vol,lgbRegressor + engFeats diff,0.017941
+alloc_tanh_threshold,last return,-0.008884
+alloc_tanh_threshold,lgbRegressor,0.015549
+alloc_tanh_threshold,lgbClassifier,0.023084
+alloc_tanh_threshold,lgbClassifier + engFeats,0.015506
+alloc_tanh_threshold,lgbClassifier + allFeats,0.01785
+alloc_tanh_threshold,lgbRegressor + allFeats,0.014672
+alloc_tanh_threshold,lgbRegressor + engFeats,0.014426
+alloc_tanh_threshold,lgbRegressor + allFeats diff,0.016013
+alloc_tanh_threshold,lgbRegressor + engFeats diff,0.016846
+alloc_kelly,last return,-0.016253
+alloc_kelly,lgbRegressor,0.016557
+alloc_kelly,lgbClassifier,0.021611
+alloc_kelly,lgbClassifier + engFeats,0.015409
+alloc_kelly,lgbClassifier + allFeats,0.017153
+alloc_kelly,lgbRegressor + allFeats,0.025583
+alloc_kelly,lgbRegressor + engFeats,0.016114
+alloc_kelly,lgbRegressor + allFeats diff,0.017716
+alloc_kelly,lgbRegressor + engFeats diff,0.025736
+alloc_regime_softplus,last return,0.00581
+alloc_regime_softplus,lgbRegressor,0.0113
+alloc_regime_softplus,lgbClassifier,0.019707
+alloc_regime_softplus,lgbClassifier + engFeats,0.017977
+alloc_regime_softplus,lgbClassifier + allFeats,0.017953
+alloc_regime_softplus,lgbRegressor + allFeats,0.011064
+alloc_regime_softplus,lgbRegressor + engFeats,0.011259
+alloc_regime_softplus,lgbRegressor + allFeats diff,0.011379
+alloc_regime_softplus,lgbRegressor + engFeats diff,0.01137
+alloc_softplus_sharpe,last return,0.009759
+alloc_softplus_sharpe,lgbRegressor,0.010465
+alloc_softplus_sharpe,lgbClassifier,0.015754
+alloc_softplus_sharpe,lgbClassifier + engFeats,0.016337
+alloc_softplus_sharpe,lgbClassifier + allFeats,0.015771
+alloc_softplus_sharpe,lgbRegressor + allFeats,0.010471
+alloc_softplus_sharpe,lgbRegressor + engFeats,0.010486
+alloc_softplus_sharpe,lgbRegressor + allFeats diff,0.010435
+alloc_softplus_sharpe,lgbRegressor + engFeats diff,0.010449
+alloc_softplus,lgbRegressor + engFeats diff lateFolds,0.024461
+alloc_piecewise,lgbRegressor + engFeats diff lateFolds,0.029113
+alloc_tanh,lgbRegressor + engFeats diff lateFolds,0.030835
+alloc_linear,lgbRegressor + engFeats diff lateFolds,0.033960
+alloc_asymmetric,lgbRegressor + engFeats diff lateFolds,0.028559
+alloc_sign,lgbRegressor + engFeats diff lateFolds,0.032557
+alloc_softplus_vol,lgbRegressor + engFeats diff lateFolds,0.029049
+alloc_tanh_threshold,lgbRegressor + engFeats diff lateFolds,0.030833
+alloc_kelly,lgbRegressor + engFeats diff lateFolds,0.032554
+alloc_regime_softplus,lgbRegressor + engFeats diff lateFolds,0.025326
+alloc_softplus_sharpe,lgbRegressor + engFeats diff lateFolds,0.024337
+alloc_softplus,lgbRegressor + allFeats diff lateFolds,0.024465
+alloc_piecewise,lgbRegressor + allFeats diff lateFolds,0.030309
+alloc_tanh,lgbRegressor + allFeats diff lateFolds,0.031574
+alloc_linear,lgbRegressor + allFeats diff lateFolds,0.034564
+alloc_asymmetric,lgbRegressor + allFeats diff lateFolds,0.029425
+alloc_sign,lgbRegressor + allFeats diff lateFolds,0.034820
+alloc_softplus_vol,lgbRegressor + allFeats diff lateFolds,0.029816
+alloc_tanh_threshold,lgbRegressor + allFeats diff lateFolds,0.031543
+alloc_kelly,lgbRegressor + allFeats diff lateFolds,0.036503
+alloc_regime_softplus,lgbRegressor + allFeats diff lateFolds,0.025226
+alloc_softplus_sharpe,lgbRegressor + allFeats diff lateFolds,0.024331
